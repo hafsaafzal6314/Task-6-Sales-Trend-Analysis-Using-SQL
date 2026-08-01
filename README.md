@@ -78,44 +78,43 @@ Example outputs include:
 
 ## 1. Data View
 
-![Data View](screenshots/data%20view.png)
+![Data View](screenshots/data_view.png)
 
 ---
 
-## 2. Monthly Revenue
+## 2. Monthly Order Volume
 
-![Monthly Revenue](screenshots/monthly%20revenue%20volume.png)
-
----
-
-## 3. Monthly Order Volume
-
-![Monthly Order Volume](screenshots/monthly%20order.png)
+![Monthly Order Volume](screenshots/Monthly_order.png)
 
 ---
 
-## 4. Revenue and Order Volume Together
+## 3. Monthly Revenue
 
-![Revenue and Order Volume Together](screenshots/revenue%20and%20order%20volume%20together.png)
-
----
-
-## 5. Revenue for 2023
-
-![Revenue for 2023](screenshots/revenue%20for%202023.png)
+![Monthly Revenue](screenshots/monthly_revenue.png)
 
 ---
 
-## 6. Top 6 Months Revenue
+## 4. Monthly Revenue and Order Volume
 
-![Top 6 Months Revenue](screenshots/top%206%20months%20revenue.png)
+![Monthly Revenue and Order Volume](screenshots/monthly_revenue_volume.png)
 
 ---
 
-## 7. Highest Revenue Month
+## 5. Revenue and Order Volume Together
 
-![Highest Revenue Month](screenshots/highest%20revenue%20month.png)
+![Revenue and Order Volume Together](screenshots/revenue_order_volume.png)
+
 ---
+
+## 6. Revenue for 2023
+
+![Revenue for 2023](screenshots/revenue_2023.png)
+
+---
+
+## 7. Top 6 Months Revenue
+
+![Top 6 Months Revenue](screenshots/top_6_months_revenue.png)
 
 ## 📁 Repository Structure
 
@@ -123,17 +122,16 @@ Example outputs include:
 Sales-Trend-Analysis-Using-SQL/
 │
 ├── online_sales.csv
-├── sales_trend_analysis.sql
+├── sales_analysis.sql
 ├── README.md
 └── screenshots/
-    ├── data view.png
-    ├── monthly order.png
-    ├── monthly revenue volume.png
-    ├── highest revenue month.png
-    ├── revenue and order volume together.png
-    ├── revenue for 2023.png
-    └── top 6 months revenue.png
-```
+    ├── data_view.png
+    ├── Monthly_order.png
+    ├── monthly_revenue.png
+    ├── monthly_revenue_volume.png
+    ├── revenue_order_volume.png
+    ├── revenue_2023.png
+    └── top_6_months_revenue.png
 
 ---
 
