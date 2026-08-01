@@ -74,7 +74,47 @@ Example outputs include:
 - Revenue and Order Volume Summary
 - Top Revenue Months
 - Highest Revenue Month
+# 📸 Query Results
 
+## 1. Data View
+
+![Data View](screenshots/data%20view.png)
+
+---
+
+## 2. Monthly Revenue
+
+![Monthly Revenue](screenshots/monthly%20revenue%20volume.png)
+
+---
+
+## 3. Monthly Order Volume
+
+![Monthly Order Volume](screenshots/monthly%20order.png)
+
+---
+
+## 4. Revenue and Order Volume Together
+
+![Revenue and Order Volume Together](screenshots/revenue%20and%20order%20volume%20together.png)
+
+---
+
+## 5. Revenue for 2023
+
+![Revenue for 2023](screenshots/revenue%20for%202023.png)
+
+---
+
+## 6. Top 6 Months Revenue
+
+![Top 6 Months Revenue](screenshots/top%206%20months%20revenue.png)
+
+---
+
+## 7. Highest Revenue Month
+
+![Highest Revenue Month](screenshots/highest%20revenue%20month.png)
 ---
 
 ## 📁 Repository Structure
